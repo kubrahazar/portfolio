@@ -1,3 +1,7 @@
+# Component: Added
+
+When the user clicks on the "Add to Cart" button, the text changes to "You added this to your Cart!".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
